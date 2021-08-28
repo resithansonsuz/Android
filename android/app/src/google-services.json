@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "645811432343",
+    "project_id": "teslimatinbende",
+    "storage_bucket": "teslimatinbende.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645811432343:android:6fdfac8ae2d66379d632d2",
+        "android_client_info": {
+          "package_name": "com.example.teslimatinbende"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645811432343-53u56cpf41c7qp75q7jamvguij9iotge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teslimatinbende",
+            "certificate_hash": "1a2a9cdc035d038dfd1dd3468f40ae7ec8d07056"
+          }
+        },
+        {
+          "client_id": "645811432343-1vdpq3o4jpvrvp9h2f89v64lr6h5ungb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_SkvQX_WxsbMqxU3JRIDiaZd8kztcoTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645811432343-1vdpq3o4jpvrvp9h2f89v64lr6h5ungb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
